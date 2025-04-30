@@ -666,7 +666,6 @@ More interpretation of Ai methods, condensing into something more handwritten
 
 Ai that better matches available tools, more x86/gpu code. Not all matrix math
 
-
-
 More widely visible/understandable scientific debate. Normal people need to be able to decide where they want to spend bounty coin. 
 
+Publicize intel's own resource usage (materials, energy) with as much detail as possible. Develop, share bkms for other companies to do the same. Move toward letting world decide how resources should be allocated. 
